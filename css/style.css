@@ -928,3 +928,9 @@ content: "";
 	background: #F7A644;
     border-bottom: 3px solid #945C1A;
 }
+
+.about-small{
+    font-size: 12px;
+    margin-top: 30px;
+    padding-left: 20px;
+}
